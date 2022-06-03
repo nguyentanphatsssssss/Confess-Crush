@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi cho....<3",
     introTitle: 'Bé heo ụt ịt',
-    introDesc: `Ba mươi chưa phải là Tết. Không làm bạn đâu phải là hết, còn có thể làm người yêu mà. ^^hihi^^,
+    introDesc: `Ba mươi chưa phải là Tết. Không làm bạn đâu phải là hết, còn có thể làm người yêu mà. ^^hihi^^`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
